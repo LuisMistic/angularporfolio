@@ -54,7 +54,7 @@ e {
     margin-bottom: 0px;
 
     padding-bottom: 20px;
-    background-image: url(./assets/imagenes/abstract-futuristic-geometric-shape-on-grey-background-modern-tech-pattern-squares-texture-you-can-use-for-cover-brochure-template-poster-banner-web-print-ad-etc-illustration-vector.jpg);
+    background-image: url(./assets/imagenes/banner.jpg);
 }
 
 .container {
@@ -247,3 +247,4 @@ video {
     margin: auto;
     display: block;
 }
+
