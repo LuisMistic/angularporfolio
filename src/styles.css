@@ -12,57 +12,6 @@
     border-right: solid 20px rgb(182, 182, 182);
 }
 
-section {
-    background-color: rgb(255, 228, 188);
-    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.6);
-    padding: 40px;
-}
-
-.buttons a {
-    text-decoration: none;
-    font-size: 28px;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    text-align: center;
-    background: #314652;
-    color: #f1f1f1;
-    border-radius: 30%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    transition: all .4s ease-in-out;
-
-
-}
-
-
-e {
-    color: rgb(170, 97, 97);
-
-}
-
-/*FONDO de la experiencia laboral*/
-.fondo {
-    margin-top: -1%;
-    background-color: rgb(246, 252, 255);
-
-
-}
-
-.container1 {
-    background-color: rgb(187, 166, 166);
-    text-align: center;
-    margin-bottom: 0px;
-
-    padding-bottom: 20px;
-    background-image: url(./assets/imagenes/banner.jpg);
-}
-
-.container {
-    background-color: #c0dbeb 40px;
-    padding-top: 0px;
-    margin: 0px;
-
-}
 
 .navegador {
     text-align: center;
@@ -74,15 +23,7 @@ a {
     color: rgb(248, 215, 187);
 }
 
-.luis {
-    text-decoration-color: aquamarine;
-    font-size: 35px;
-    text-align: center;
-    padding-top: 0px;
-    margin: 0px;
 
-
-}
 
 d {
 
@@ -122,10 +63,7 @@ d {
 
 }
 
-.row ol li {
-    color: rgb(0, 0, 0);
-    background-color: 10px;
-}
+
 
 .parrafo {
     color: rgb(106, 110, 117);
@@ -192,20 +130,7 @@ h1 {
 }
 
 /*estilo de fondo de tarjeta experiencia laboral*/
-.contsa {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid;
-    border-color: rgb(255, 255, 255);
-    border-radius: 30px;
-    background-color: rgb(255, 255, 255);
 
-    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-
-}
 
 .figure {
     box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.6);
@@ -220,29 +145,8 @@ h1 {
  flex-direcction: column;  (centrado)
  justify-content: center;
  align-itens: center;
- min-height: 100vh;
+ min-h
 */
-/*min-height: 100vh; */
-/* efcttro cambio de color */
-.contsaButton {
-    cursor: pointer;
-    border: 1px solid;
-    border-color: rgb(214, 255, 7);
-    border-radius: 30px;
-    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.6);
-    padding: 20px;
-    transition: background-position .2s ease;
-    background: linear-gradient(to right, rgb(250, 237, 215) 50%, rgb(199, 233, 190) 50%) no-repeat left / 200%;
-}
-
-.contsaButton:hover {
-
-    background-position: right;
-
-    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.6);
-    border: 5px;
-}
-
 video {
 
     width: 80%;

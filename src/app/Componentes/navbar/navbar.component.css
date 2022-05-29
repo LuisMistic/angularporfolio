@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(170, 166, 166);
+   
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    color: antiquewhite;
+    
+}
+
+
+.row {
+    overflow: scroll;
+    position: relative;
+    background-color: rgb(170, 166, 166);
+    padding-top: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+
