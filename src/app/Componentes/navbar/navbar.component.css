@@ -1,19 +1,28 @@
+
+
+
 * {
-    background-color: rgb(170, 166, 166);
+   
    
     box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
     
 }
 
+#a{
+     color:white;
 
+}
 .row {
-    overflow: scroll;
-    position: relative;
-    background-color: rgb(170, 166, 166);
+    
+    
     padding-top: 0px;
     margin: 0px;
     text-align: center;
 }
 
 
+/*desoarecer menu
+@media (width:500px) {
+    #navbar {display: none};
+} */
