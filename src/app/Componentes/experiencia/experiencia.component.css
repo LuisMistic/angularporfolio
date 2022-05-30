@@ -1,5 +1,6 @@
 
 
+
 .fondo {
     margin-top: -1%;
     background-color: rgb(246, 252, 255);
@@ -40,4 +41,8 @@
     box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.2);
     padding: 20px;
 
+}
+
+.col-12 {
+    text-align: center;
 }
