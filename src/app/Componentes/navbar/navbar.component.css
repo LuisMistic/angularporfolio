@@ -16,8 +16,11 @@
 ul{
     background-color: rgb(31, 29, 29);
     padding-top: px;
-    margin: 0px;
+    
     text-align: center;
+}
+.buton {
+    text-align: r;
 }
 
 
