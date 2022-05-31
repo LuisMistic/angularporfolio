@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { AppComponent } from './app.component';
+import { AppComponent } from "./AppComponent.2";
 import { PersonaComponent } from './Componentes/persona/persona.component';
 import { NavbarComponent } from './Componentes/navbar/navbar.component';
 import { BannerComponent } from './Componentes/banner/banner.component';

@@ -1,10 +1,13 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AppComponent } from '../app.component';
+import { AppComponent } from "../AppComponent.2";
 import { RouterModule, Routes } from '@angular/router';
+import { Pagina404Component } from '../Componentes/pagina404/pagina404.component';
 
 
-const routes:Routes = [];
+const routes:Routes = [
+  {path: '**', component: Pagina404Component}
+];
 
 @NgModule({
   declarations: [
