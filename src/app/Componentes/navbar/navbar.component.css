@@ -4,9 +4,11 @@
    
     background-color:rgba(39, 35, 35, 0.808);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-    color: rgb(241, 236, 236);
-    
+    color: rgb(241, 236, 236);    
 }
+
+
+
 .nav-item{
    
     background-color:rgba(39, 35, 35, 0.808);
