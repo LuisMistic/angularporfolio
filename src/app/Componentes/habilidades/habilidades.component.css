@@ -1,0 +1,19 @@
+
+
+
+.progress{
+    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.8);
+   
+}
+
+.hab {
+    box-shadow: 1px 7px 25px rgba(0, 0, 0, 0.8);
+   
+    color: rgb(0, 0, 0);
+}
+
+.habilidades {
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
